@@ -11,3 +11,8 @@ the websit has accounts for Customers, Employees, and Manager , with a spacific 
 
 **MySQL, FLASK, HTML , CSS, BootStrap**
 
+
+## Landing Page and Customer Pages : 
+
+https://github.com/user-attachments/assets/b59176f3-bade-43fa-933e-6438095d5452
+
